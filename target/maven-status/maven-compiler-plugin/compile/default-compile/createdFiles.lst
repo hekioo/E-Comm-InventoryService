@@ -1,0 +1,6 @@
+com\techie\inventoryservice\inventory\service\InventoryServiceApplication.class
+service\InventoryService.class
+model\Inventory$InventoryBuilder.class
+controller\InventoryController.class
+repository\InventoryRepository.class
+model\Inventory.class
